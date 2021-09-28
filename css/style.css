@@ -1,0 +1,21 @@
+.boxshadow {
+  box-shadow: 3px 3px 3px grey;
+  width: 400px;
+}
+
+.color {
+  background-color: hotpink;
+  box-shadow: 4px 4px 4px grey;
+  width: 400px;
+}
+
+img {
+  width: 500px;
+  height: 400px;
+}
+
+.test:focus {
+  width: 767px;
+  height: 1350px;
+  color: blue;
+}
