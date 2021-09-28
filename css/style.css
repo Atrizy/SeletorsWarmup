@@ -1,6 +1,11 @@
 .boxshadow {
   box-shadow: 3px 3px 3px grey;
   width: 400px;
+  text-shadow: 2px 2px 4px purple;
+}
+
+.color:hover {
+  background-color: rosybrown;
 }
 
 .color {
@@ -9,13 +14,13 @@
   width: 400px;
 }
 
-img {
+#rdmimg {
   width: 500px;
   height: 400px;
 }
 
-.test:focus {
-  width: 767px;
-  height: 1350px;
-  color: blue;
+#rdmimg:active {
+  width: 1350px;
+  height: 767px;
+  color: red;
 }
